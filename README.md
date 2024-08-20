@@ -1,6 +1,6 @@
-# Proyecto: Análisis de Conexiones de Internet Fijo en el Perú
+# Proyecto: Análisis desigualdad en el acceso a Internet de alta velocidad en el Perú
 
-Este repositorio contiene el desarrollo del proyecto presentado para el evento Exprésate, Perú con Datos 2024,
+Este repositorio contiene el desarrollo del proyecto presentado para el evento Exprésate, Perú con Datos 2023,
 enfocado en el análisis de la cantidad de conexiones de Internet fijo en el Perú, desglosadas por velocidad de bajada, empresa operadora y distrito.
 
 ## Objetivo del Proyecto
